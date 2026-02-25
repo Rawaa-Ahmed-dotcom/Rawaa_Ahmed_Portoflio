@@ -1,5 +1,5 @@
-import { Facebook, Github, Instagram, Linkedin, Twitter } from 'lucide-react'
-import React from 'react'
+import { Facebook, Github, Instagram, Linkedin } from 'lucide-react'
+
 
 const FindsMe = () => {
   return (

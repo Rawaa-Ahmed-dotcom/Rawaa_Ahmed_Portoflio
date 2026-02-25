@@ -1,8 +1,8 @@
-import React, { useRef, useEffect } from "react";
+import  { useRef, useEffect } from "react";
 import { Hand } from "lucide-react";
 import gsap from "gsap";
 import TypingComponent from "../components/TypingComponent";
-import Magnet from "./Magnet.jsx";
+import Magnet from "./Magnet";
 
 
 const Banner = () => {

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ProjectsCom from '../components/ProjectsCom'
 const Projects = () => {
   return (
