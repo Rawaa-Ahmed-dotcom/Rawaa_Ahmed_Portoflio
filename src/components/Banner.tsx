@@ -46,7 +46,7 @@ const Banner = () => {
              
               <Magnet padding={50} disabled={false} magnetStrength={3}>
                  <a
-                href="../../files/Resume 2026.pdf"
+                href="/files/Resume 2026.pdf"
                 download={true}
                 className="uppercase bg-[var(--color-primary)] text-white decoration-none text-left text-lg px-5 py-4 rounded-3xl"
               >
